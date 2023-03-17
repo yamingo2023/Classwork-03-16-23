@@ -9,6 +9,6 @@
 
 ## Fintech is always evolving so you tend to keep updating yourself.
 
-![Crazy coding](th.png)
+![Crazy coding](cat.jpeg)
 
 
