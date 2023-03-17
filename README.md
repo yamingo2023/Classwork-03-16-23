@@ -9,6 +9,8 @@
 
 ## Fintech is always evolving so you tend to keep updating yourself.
 
-![Crazy coding](cat.jpeg)
+My son Andre
+
+![My dear son](Andre.jpg)
 
 
