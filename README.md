@@ -9,5 +9,5 @@
 
 ## Fintech is always evolving so you tend to keep updating yourself.
 
-![Crazy coding](Cat.jfif)
+![Crazy coding] (Cat.jfif)
 
